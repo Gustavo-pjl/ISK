@@ -64,9 +64,27 @@ namespace Aula8
             }
 
 
-            //OPERADOR DE NEGAÇÃO (!) - "NÃO . . . "
+            //OPERADOR DE NEGAÇÃO (!) - "NÃO . . . 
+            
+        // 1. O QUE ELE FAZ:
+        //    - Conhecido como operador NOT (NÃO).
+        //    - Ele INVERTE o valor de um booleano:
+        //        !true  vira FALSE
+        //        !false vira TRUE
+        //
+        // 2. PARA QUE SERVE:
+        //    - Serve para checar a "ausência" de algo ou se uma condição NÃO é verdadeira.
+        //    - Deixa o código mais natural de ler. Em vez de escrever:
+        //        if (estaLogado == false)
+        //      Você escreve:
+        //        if (!estaLogado)  // Lê-se: "Se NÃO está logado"
+        //
+        // 3. TABELA VERDADE:
+        //    - !true  -> FALSE
+        //    - !false -> TRUE
+        // =========================================================================
 
-            if (isLogged)
+            if (!isLogged)
             {
               Console.WriteLine("Usuario não logado");
             }
