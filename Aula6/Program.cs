@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Aula5
+namespace Aula6
 {
     public class Program
     {
