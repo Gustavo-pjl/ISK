@@ -9,7 +9,7 @@ namespace Aula8
 
         Console.WriteLine(" Operadores Lógicos");
 
-        bool isLogged = true;
+        bool isLogged = false;
         bool hasAdminAcess = false;
 
          Console.WriteLine("\nInformação do Usuario");
@@ -72,7 +72,7 @@ namespace Aula8
             }
             else
             {
-                Console.WriteLine("Usuario logaado");
+              Console.WriteLine("Usuario logaado");
             }
 
         }
