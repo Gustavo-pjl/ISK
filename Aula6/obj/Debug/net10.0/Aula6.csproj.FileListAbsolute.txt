@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Documents\ISK\Aula6\bin\Debug\net10.0\Aula6.exe
+C:\Users\Gustavo\Documents\ISK\Aula6\bin\Debug\net10.0\Aula6.deps.json
+C:\Users\Gustavo\Documents\ISK\Aula6\bin\Debug\net10.0\Aula6.runtimeconfig.json
+C:\Users\Gustavo\Documents\ISK\Aula6\bin\Debug\net10.0\Aula6.dll
+C:\Users\Gustavo\Documents\ISK\Aula6\bin\Debug\net10.0\Aula6.pdb
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\Aula6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\Aula6.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\Aula6.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\Aula6.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\Aula6.dll
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\refint\Aula6.dll
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\Aula6.pdb
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\Aula6.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\ISK\Aula6\obj\Debug\net10.0\ref\Aula6.dll
