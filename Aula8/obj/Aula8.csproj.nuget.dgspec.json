@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj": {}
+    "C:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj": {
+    "C:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj",
         "projectName": "Aula8",
-        "projectPath": "c:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\Aula8.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\ISK\\Aula8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config"

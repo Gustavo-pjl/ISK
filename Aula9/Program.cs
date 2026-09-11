@@ -59,6 +59,16 @@ namespace Aula9
             }
 
                 Console.WriteLine("\n Resultado: " + result);
+
+
+                Console.WriteLine("Deseja realizar outra operação (s/n)?");
+                String resposta = Console.ReadLine();
+
+                if (resposta != "s")
+                {
+                    varContinue = false;
+                Console.WriteLine("\n Obrigado por usar a calculadora " );    
+                }
            }
         }
     }
