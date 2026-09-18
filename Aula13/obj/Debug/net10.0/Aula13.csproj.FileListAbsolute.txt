@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\ISK\Aula13\bin\Debug\net10.0\Aula13.exe
+C:\Users\Gustavo\Documents\ISK\Aula13\bin\Debug\net10.0\Aula13.deps.json
+C:\Users\Gustavo\Documents\ISK\Aula13\bin\Debug\net10.0\Aula13.runtimeconfig.json
+C:\Users\Gustavo\Documents\ISK\Aula13\bin\Debug\net10.0\Aula13.dll
+C:\Users\Gustavo\Documents\ISK\Aula13\bin\Debug\net10.0\Aula13.pdb
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.sourcelink.json
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.dll
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\refint\Aula13.dll
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.pdb
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\Aula13.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\ISK\Aula13\obj\Debug\net10.0\ref\Aula13.dll
