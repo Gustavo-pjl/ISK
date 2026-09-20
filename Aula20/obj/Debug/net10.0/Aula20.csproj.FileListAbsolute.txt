@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\ISK\Aula20\bin\Debug\net10.0\Aula20.exe
+C:\Users\Gustavo\Documents\ISK\Aula20\bin\Debug\net10.0\Aula20.deps.json
+C:\Users\Gustavo\Documents\ISK\Aula20\bin\Debug\net10.0\Aula20.runtimeconfig.json
+C:\Users\Gustavo\Documents\ISK\Aula20\bin\Debug\net10.0\Aula20.dll
+C:\Users\Gustavo\Documents\ISK\Aula20\bin\Debug\net10.0\Aula20.pdb
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.sourcelink.json
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.dll
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\refint\Aula20.dll
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.pdb
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\Aula20.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\ISK\Aula20\obj\Debug\net10.0\ref\Aula20.dll

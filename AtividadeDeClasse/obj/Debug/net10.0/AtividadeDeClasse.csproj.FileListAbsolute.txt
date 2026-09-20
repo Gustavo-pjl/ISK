@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\bin\Debug\net10.0\AtividadeDeClasse.exe
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\bin\Debug\net10.0\AtividadeDeClasse.deps.json
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\bin\Debug\net10.0\AtividadeDeClasse.runtimeconfig.json
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\bin\Debug\net10.0\AtividadeDeClasse.dll
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\bin\Debug\net10.0\AtividadeDeClasse.pdb
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.sourcelink.json
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.dll
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\refint\AtividadeDeClasse.dll
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.pdb
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\AtividadeDeClasse.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\ISK\AtividadeDeClasse\obj\Debug\net10.0\ref\AtividadeDeClasse.dll

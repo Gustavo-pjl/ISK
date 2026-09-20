@@ -94,12 +94,13 @@ namespace Aula16
 
         //8. Declarar sem inicializar
         List<int> numbers = new List<int>();
-
+           
          foreach (int number in numbers)
             {
                 Console.WriteLine(number);
             }
-        
+        /*separador*/ Console.WriteLine(separator);
+
         }
     }
 }

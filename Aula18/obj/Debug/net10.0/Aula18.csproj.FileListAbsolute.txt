@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.sourcelink.json
+C:\Users\Gustavo\Documents\ISK\Aula18\bin\Debug\net10.0\Aula18.exe
+C:\Users\Gustavo\Documents\ISK\Aula18\bin\Debug\net10.0\Aula18.deps.json
+C:\Users\Gustavo\Documents\ISK\Aula18\bin\Debug\net10.0\Aula18.runtimeconfig.json
+C:\Users\Gustavo\Documents\ISK\Aula18\bin\Debug\net10.0\Aula18.dll
+C:\Users\Gustavo\Documents\ISK\Aula18\bin\Debug\net10.0\Aula18.pdb
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.dll
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\refint\Aula18.dll
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.pdb
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\Aula18.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\ISK\Aula18\obj\Debug\net10.0\ref\Aula18.dll
